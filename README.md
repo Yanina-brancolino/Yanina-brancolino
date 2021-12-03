@@ -35,7 +35,7 @@ const yani = {
                         mentor: "Soy Henry"
                       },
 
-  challenge: "To continue improving myself in the IT World, learning every day."
+  challenge: "To continue improving myself in the IT World, learning every day"
 }
 ```
 
