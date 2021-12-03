@@ -34,7 +34,8 @@ experienceGained: {
                         individualProject: "API Games",
                         groupProject: "Henry Kids",
                         mentor: "Soy Henry"
-                      },
+                   },
+                   
  challenge: "To continue improving myself in the IT World, learning every day."
 }
 ```
