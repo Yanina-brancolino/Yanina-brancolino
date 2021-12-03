@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Linkedin: yaninabrancolino](https://img.shields.io/badge/-yaninabrancolino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/yanina-paola-brancolino-fullstack-developer/)
-[![GitHub Yanina](https://img.shields.io/github/followers/yanina?label=follow&style=social)](https://github.com/Yanina-brancolino)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
